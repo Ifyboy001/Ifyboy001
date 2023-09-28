@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @Ifyboy001
 - 👀 I’m interested in web and app development ...
-- 🌱 I’m currently studying software engineering.. 
-- 💞️ I’m looking to collaborate on new group projects..
 - 📫 How to reach me anihifeanyichukwu@gmail.com 
 
 <!---
